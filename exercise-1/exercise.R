@@ -14,7 +14,7 @@ FeetToMeters <- function(feet) {
 }
 
 # Create a variable `height.in.feet` that is your height in feet
-height.in.feet <- 6
+height.in.feet <- 6 #techinically I'm 5' 11", but close enough, right?
 
 # Create a variable `height.in.meters` by passing `height.in.feet` to your `FeetToMeters` function
 height.in.meters <- FeetToMeters(height.in.feet)
